@@ -1,4 +1,4 @@
 [build]
-  publish = "build",
+  publish = "dist",
   publish = "my-portfolio/dist"
   command = "npm run build"
