@@ -1,4 +1,3 @@
 [build]
-  publish = "dist",
-  publish = "my-portfolio/dist"
+  publish = "dist" # Match this to outDir in vite.config.js
   command = "npm run build"
